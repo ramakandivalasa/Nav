@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+    background-color: rgb(127, 231, 239);
+}
+.flex-container>div{
+    background-color: rgb(189, 250, 33);
+    margin:1%;
+    padding:  15px 100px 15px;
+    font-size: large;
+    border-radius: 10%;
+    
+}
+.flex-container>div:hover{
+    background-color: rgb(230, 102, 247);
+}
+p{
+    font-size: larger;
+}
